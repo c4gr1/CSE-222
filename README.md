@@ -1,5 +1,5 @@
 # CSE-222
-Data Structures
+Data Structures and Algorithms
 
 - HW-01 : 95
 - HW-02 : 93
